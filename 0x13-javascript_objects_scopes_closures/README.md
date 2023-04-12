@@ -52,4 +52,4 @@ Usage
 These files can be used as a reference for how to create and use classes in JavaScript, as well as how to use various features of the language such as closures and scope. They can also be used as a starting point for more complex projects.
 
 Credits
-These projects were completed as part of the curriculum for ALX AFRICA, an immersive software engineering program 
+These projects were completed as part of the curriculum for ALX AFRICA,by Nwachukwu Onyinyechi 
